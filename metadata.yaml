@@ -1,0 +1,27 @@
+_repo: History-of-merchant-shipping-and-ancient-commerce-Volume-I-of-4_73757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, W. S.
+    gutenberg_agent_id: '57208'
+    url: http://www.gutenberg.org/2009/agents/57208
+description: ''
+gutenberg_issued: '2024-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73757'
+language: en
+pgterms:marc905: 20131215113751lindsay
+pgterms:marc906: '1874'
+pgterms:marc907: GB
+production_note: Melissa McDaniel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bSampson Low, Marston, Low, and Searle, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of merchant shipping and ancient commerce, Volume I (of 4)
+url: http://www.gutenberg.org/ebooks/73757
